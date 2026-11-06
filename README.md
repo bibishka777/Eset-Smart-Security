@@ -194,3 +194,6 @@ This repository serves as the official landing page for ESET Smart Security. The
 - 💬 **[Community](https://softcosmo.com/about-us/)**
 ---
 **Get the most recent version of ESET Smart Security today!**
+
+---
+**Last updated:** 2026-11-06 03:16:43 UTC
